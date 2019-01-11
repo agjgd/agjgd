@@ -47,10 +47,6 @@ Please post any questions on [stackoverflow.com](https://stackoverflow.com/) if 
 
 If you discover a bug please enter an issue on GitHub.
 
-## Contributing
-
-Please read our [contributing guidelines](https://github.com/agjgd/agjgd/blob/master/CONTRIBUTING.md) if you want to contribute.
-
 ## Acknowledgements
 
 Full list of contributors across all projects:
