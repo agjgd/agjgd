@@ -4,5 +4,9 @@ All notable changes to the [agjgd project](https://github.com/andrewgjohnson/agj
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## v1.0.1 (November 17, 2022)
+ * Moved all project URL's to agjgd.org subdomains
+ * Updated avatar
+
 ## v1.0.0 (January 11, 2019)
  * Intial release of agjgd
