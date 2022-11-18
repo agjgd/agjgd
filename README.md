@@ -14,12 +14,12 @@
 **agjgd** is a collection of projects started by [Andrew G. Johnson](https://github.com/andrewgjohnson) for [PHP](http://php.net)'s [GD](http://php.net/manual/book.image.php) library.
 
 All **agjgd** projects:
- * [imagettftextblur](https://imagettftextblur.org/) ([GitHub](https://github.com/andrewgjohnson/imagettftextblur), [Packagist](https://packagist.org/packages/andrewgjohnson/imagettftextblur) & [Twitter](https://twitter.com/imagettftextblu))
- * [imagettftextgradient](https://imagettftextgradient.org/) ([GitHub](https://github.com/andrewgjohnson/imagettftextgradient), [Packagist](https://packagist.org/packages/andrewgjohnson/imagettftextgradient) & [Twitter](https://twitter.com/imagettftextgra))
- * [imageblendedcolorallocate](https://imageblendedcolorallocate.org/) ([GitHub](https://github.com/andrewgjohnson/imageblendedcolorallocate), [Packagist](https://packagist.org/packages/andrewgjohnson/imageblendedcolorallocate) & [Twitter](https://twitter.com/imagebca))
- * [imagecolorallocatefromstring](https://imagecolorallocatefromstring.org/) ([GitHub](https://github.com/andrewgjohnson/imagecolorallocatefromstring), [Packagist](https://packagist.org/packages/andrewgjohnson/imagecolorallocatefromstring) & [Twitter](https://twitter.com/imagecafs))
- * [imagegradientrectangle](https://imagegradientrectangle.org/) ([GitHub](https://github.com/andrewgjohnson/imagegradientrectangle), [Packagist](https://packagist.org/packages/andrewgjohnson/imagegradientrectangle) & [Twitter](https://twitter.com/imagegradrect))
- * [linebreaks4imagettftext](https://linebreaks4imagettftext.org/) ([GitHub](https://github.com/andrewgjohnson/linebreaks4imagettftext), [Packagist](https://packagist.org/packages/andrewgjohnson/linebreaks4imagettftext) & [Twitter](https://twitter.com/lb4ittft))
+ * [imagettftextblur](https://imagettftextblur.agjgd.org/) ([GitHub](https://github.com/andrewgjohnson/imagettftextblur), [Packagist](https://packagist.org/packages/andrewgjohnson/imagettftextblur) & [Twitter](https://twitter.com/imagettftextblu))
+ * [imagettftextgradient](https://imagettftextgradient.agjgd.org/) ([GitHub](https://github.com/andrewgjohnson/imagettftextgradient), [Packagist](https://packagist.org/packages/andrewgjohnson/imagettftextgradient) & [Twitter](https://twitter.com/imagettftextgra))
+ * [imageblendedcolorallocate](https://imageblendedcolorallocate.agjgd.org/) ([GitHub](https://github.com/andrewgjohnson/imageblendedcolorallocate), [Packagist](https://packagist.org/packages/andrewgjohnson/imageblendedcolorallocate) & [Twitter](https://twitter.com/imagebca))
+ * [imagecolorallocatefromstring](https://imagecolorallocatefromstring.agjgd.org/) ([GitHub](https://github.com/andrewgjohnson/imagecolorallocatefromstring), [Packagist](https://packagist.org/packages/andrewgjohnson/imagecolorallocatefromstring) & [Twitter](https://twitter.com/imagecafs))
+ * [imagegradientrectangle](https://imagegradientrectangle.agjgd.org/) ([GitHub](https://github.com/andrewgjohnson/imagegradientrectangle), [Packagist](https://packagist.org/packages/andrewgjohnson/imagegradientrectangle) & [Twitter](https://twitter.com/imagegradrect))
+ * [linebreaks4imagettftext](https://linebreaks4imagettftext.agjgd.org/) ([GitHub](https://github.com/andrewgjohnson/linebreaks4imagettftext), [Packagist](https://packagist.org/packages/andrewgjohnson/linebreaks4imagettftext) & [Twitter](https://twitter.com/lb4ittft))
 
 ## Usage
 
