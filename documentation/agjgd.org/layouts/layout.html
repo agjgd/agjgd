@@ -156,7 +156,7 @@
                 <a href="/menu/" title="Menu" id="menu-toggle">Menu</a>
                 <nav>
                     <ul>
-                        {% assign site_title_with_semicolon = 'agjgd&#58; ' %}
+                        {% assign site_title_with_semicolon = site.title | append: '&#58; ' %}
                         {% assign pages_sorted = site.pages | sort: 'nav' %}
                         {% for page in pages_sorted %}
                             {% if page.nav %}
