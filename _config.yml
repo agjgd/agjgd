@@ -1,22 +1,24 @@
-title:        agjgd
-name:         agjgd
-description:  agjgd is tk
+title:        agjgd.org
+name:         agjgd.org
+description:  agjgd is a collection of projects started by Andrew G. Johnson for PHP's GD 
 author:       Andrew G. Johnson
 author_email: andrew@andrewgjohnson.com
-email:        andrew@andrewgjohnson.com
+email:        agjgd.org@gmail.com
 url:          "https://agjgd.org"
 includes_dir: .
 layouts_dir:  documentation/agjgd.org/layouts
 exclude:      [
+               .github,
+               .github/*.md,
+               .github/*.yml,
+               .github/CODEOWNERS,
                CHANGELOG.md,
                CNAME,
-               CODE_OF_CONDUCT.md,
                composer.json,
-               CONTRIBUTING.md,
                documentation/README.md,
-               ISSUE_TEMPLATE.md,
+               examples/*.php,
+               examples/*.ttf,
                LICENSE,
-               PULL_REQUEST_TEMPLATE.md,
                README.md,
                source
               ]
