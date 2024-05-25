@@ -41,7 +41,7 @@ jobs:
         run: |
           BADGE_URL="https://raster.shields.io/badge/downloads-"
 
-          if [ $TOTAL_DOWNLOADS -ge 950000 ]; then
+          if [ $TOTAL_DOWNLOADS -ge 999500 ]; then
             ROUNDED_DOWNLOADS=$(( (TOTAL_DOWNLOADS) / 1000000 ))
             BADGE_URL="${BADGE_URL}${ROUNDED_DOWNLOADS}M"
           elif [ $TOTAL_DOWNLOADS -ge 1000 ]; then
