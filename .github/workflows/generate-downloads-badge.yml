@@ -19,6 +19,7 @@ jobs:
       - name: Fetch downloads total
         run: |
           REPOS=(
+            "agjgd/agjgd"
             "andrewgjohnson/imagettftextblur"
             "andrewgjohnson/imagettftextgradient"
             "andrewgjohnson/imageblendedcolorallocate"
