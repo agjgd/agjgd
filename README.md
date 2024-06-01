@@ -3,6 +3,7 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-0366d6.png?colorB=0366d6&style=flat-square)](https://github.com/agjgd/agjgd/blob/master/LICENSE)
 [![Current Release](https://img.shields.io/github/release/agjgd/agjgd.png?colorB=0366d6&style=flat-square&logoColor=white&logo=github)](https://github.com/agjgd/agjgd/releases)
 [![Packagist Downloads](https://agjgd.org/documentation/agjgd.org/images/downloads-badge.png)](https://agjgd.org/projects/)
+[![GitHub Issues](https://agjgd.org/documentation/agjgd.org/images/issues-badge.png)](https://github.com/agjgd/agjgd/blob/master/ISSUES.md)
 [![Patreon](https://img.shields.io/endpoint.png?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dagjopensource%26type%3Dpatrons&colorB=0366d6&style=flat-square&logoColor=white&logo=patreon)](https://patreon.com/agjopensource)
 
 <p align="center"><a href="https://agjgd.org/" title=""><img src="https://agjgd.org/documentation/agjgd.org/images/avatar.png" alt="" title="" width="400" id="avatar" /></a></p>
