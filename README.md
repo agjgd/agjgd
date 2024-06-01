@@ -1,5 +1,6 @@
 # agjgd
 
+[![MIT License](https://img.shields.io/badge/license-MIT-0366d6.png?colorB=0366d6&style=flat-square)](https://github.com/agjgd/agjgd/blob/master/LICENSE)
 [![Packagist Downloads](https://agjgd.org/documentation/agjgd.org/images/downloads-badge.png)](https://github.com/agjgd/agjgd/blob/master/DOWNLOADS.md)
 [![GitHub Stargazers](https://agjgd.org/documentation/agjgd.org/images/stargazers-badge.png)](https://github.com/agjgd/agjgd/blob/master/STARGAZERS.md)
 [![GitHub Contributors](https://agjgd.org/documentation/agjgd.org/images/contributors-badge.png)](https://github.com/agjgd/agjgd/blob/master/CONTRIBUTORS.md)
