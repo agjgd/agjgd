@@ -57,7 +57,7 @@ Full list of contributors across all projects:
  * [Imgbot (@ImgBotApp)](https://github.com/ImgBotApp)
  * [GitHub Actions (github-actions[bot])](https://github.com/features/actions)
 
-Our [security policies and procedures](https://github.com/andrewgjohnson/imagettftextblur/blob/master/.github/SECURITY.md) comes via the [atomist/samples](https://github.com/atomist/samples/blob/master/SECURITY.md) project. Our [pull request template](https://github.com/andrewgjohnson/imagettftextblur/blob/master/.github/PULL_REQUEST_TEMPLATE.md) comes via the [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) project. The [mountains photo](https://unsplash.com/photos/qJvpykJ5SKs) comes via [Gabriel Garcia Marengo](https://unsplash.com/@gabrielgm).
+Our [security policies and procedures](https://github.com/agjgd/agjgd/blob/master/.github/SECURITY.md) comes via the [atomist/samples](https://github.com/atomist/samples/blob/master/SECURITY.md) project. Our [pull request template](https://github.com/agjgd/agjgd/blob/master/.github/PULL_REQUEST_TEMPLATE.md) comes via the [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) project. The [mountains photo](https://unsplash.com/photos/qJvpykJ5SKs) comes via [Gabriel Garcia Marengo](https://unsplash.com/@gabrielgm).
 
 ## Changelog
 
