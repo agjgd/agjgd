@@ -9,7 +9,7 @@ project|contributors
 [andrewgjohnson/**linebreaks4imagettftext**](https://github.com/andrewgjohnson/linebreaks4imagettftext)|[2](https://github.com/andrewgjohnson/linebreaks4imagettftext/graphs/contributors)
 **Unique contributors across all projects**|**4**
 
-## List of all contributors
+# List of all contributors
 
  * [andrewgjohnson](https://github.com/andrewgjohnson)
  * [vHeemstra](https://github.com/vHeemstra)
