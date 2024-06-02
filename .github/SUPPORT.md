@@ -1,3 +1,3 @@
 # Support for agjgd
 
-This is not the repository to request support for. You can request support on any individual project's repository directly.
+This is not the repository to request support for. You can request support on any individual project’s repository directly.
