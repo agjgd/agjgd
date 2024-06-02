@@ -20,6 +20,9 @@ permalink: /menu/
         <a href="https://twitter.com/agjgdphp" title="Twitter">Twitter</a>
     </li>
     <li>
+        <a href="https://x.com/agjgdphp" title="𝕏">𝕏</a>
+    </li>
+    <li>
         <a href="https://patreon.com/agjgd" title="Patreon">Patreon</a>
     </li>
 </ul>
