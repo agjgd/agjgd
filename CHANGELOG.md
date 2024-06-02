@@ -21,7 +21,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
  * Removed the MIT logo from the shields.io badge for agjgd's license
  * Added Patrons shields.io badge to README.md
  * Removed all issue templates and disabled GitHub issues
- * Updated [avatar image](https://imagegradientrectangle.agjgd.org/documentation/imagegradientrectangle.agjgd.org/images/avatar.png)
+ * Updated [avatar image](https://agjgd.org/documentation/agjgd.org/images/avatar.png)
 
 ## [v1.0.1](https://github.com/agjgd/agjgd/releases/tag/v1.0.1) (November 17, 2022)
  * Moved all project URL's to agjgd.org subdomains
