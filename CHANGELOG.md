@@ -4,12 +4,12 @@ All notable changes to the [agjgd project](https://github.com/agjgd/agjgd) will 
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
-## [v1.0.3](https://github.com/andrewgjohnson/agjCalendar/releases/tag/v1.0.3) (June 1, 2024)
+## [v1.0.3](https://github.com/agjgd/agjgd/releases/tag/v1.0.3) (June 1, 2024)
  * Added `/statistics/` page to [agjgd.org](https://agjgd.org/)
  * Updated documentation site layout
  * Added workflows for GitHub actions to handle badges and reports for downloads, stargazers, open issues and contributors
 
-## [v1.0.2](https://github.com/andrewgjohnson/agjCalendar/releases/tag/v1.0.2) (November 22, 2022)
+## [v1.0.2](https://github.com/agjgd/agjgd/releases/tag/v1.0.2) (November 22, 2022)
  * Added `/menu/` page to [agjgd.org](https://agjgd.org/)
  * Signed up for [Patreon](https://patreon.com/agjgd) and added links to README.md
  * Added `.github` folder to unclutter the root directory
@@ -23,9 +23,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
  * Removed all issue templates and disabled GitHub issues
  * Updated [avatar image](https://imagegradientrectangle.agjgd.org/documentation/imagegradientrectangle.agjgd.org/images/avatar.png)
 
-## [v1.0.1](https://github.com/andrewgjohnson/agjCalendar/releases/tag/v1.0.1) (November 17, 2022)
+## [v1.0.1](https://github.com/agjgd/agjgd/releases/tag/v1.0.1) (November 17, 2022)
  * Moved all project URL's to agjgd.org subdomains
  * Updated avatar
 
-## [v1.0.0](https://github.com/andrewgjohnson/agjCalendar/releases/tag/v1.0.0) (January 11, 2019)
+## [v1.0.0](https://github.com/agjgd/agjgd/releases/tag/v1.0.0) (January 11, 2019)
  * Intial release of agjgd
