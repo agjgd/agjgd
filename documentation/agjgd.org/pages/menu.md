@@ -23,6 +23,6 @@ permalink: /menu/
         <a href="https://x.com/agjgdphp" title="𝕏">𝕏</a>
     </li>
     <li>
-        <a href="https://patreon.com/agjgd" title="Patreon">Patreon</a>
+        <a href="https://patreon.com/agjopensource" title="Patreon">Patreon</a>
     </li>
 </ul>
