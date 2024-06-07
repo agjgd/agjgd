@@ -30,7 +30,6 @@ jobs:
           REPORT="project|downloads\n-------|----------\n"
           TOTAL_DOWNLOADS=0
 
-
           round() {
             echo $1 | awk '{printf "%d", ($1 + 0.5)}'
           }
