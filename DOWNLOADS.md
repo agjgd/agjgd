@@ -5,6 +5,6 @@ project|downloads
 [andrewgjohnson/**imagecolorallocatefromstring**](https://github.com/andrewgjohnson/imagecolorallocatefromstring)|[15](https://packagist.org/packages/andrewgjohnson/imagecolorallocatefromstring/stats)
 [andrewgjohnson/**imagegradientrectangle**](https://github.com/andrewgjohnson/imagegradientrectangle)|[20](https://packagist.org/packages/andrewgjohnson/imagegradientrectangle/stats)
 [andrewgjohnson/**imagettftextblur**](https://github.com/andrewgjohnson/imagettftextblur)|[117,107](https://packagist.org/packages/andrewgjohnson/imagettftextblur/stats)
-[andrewgjohnson/**imagettftextgradient**](https://github.com/andrewgjohnson/imagettftextgradient)|[486](https://packagist.org/packages/andrewgjohnson/imagettftextgradient/stats)
+[andrewgjohnson/**imagettftextgradient**](https://github.com/andrewgjohnson/imagettftextgradient)|[489](https://packagist.org/packages/andrewgjohnson/imagettftextgradient/stats)
 [andrewgjohnson/**linebreaks4imagettftext**](https://github.com/andrewgjohnson/linebreaks4imagettftext)|[40,385](https://packagist.org/packages/andrewgjohnson/linebreaks4imagettftext/stats)
-**Total downloads across all projects**|**158,048**
+**Total downloads across all projects**|**158,051**
