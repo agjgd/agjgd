@@ -6,5 +6,5 @@ project|issues
 [andrewgjohnson/**imagegradientrectangle**](https://github.com/andrewgjohnson/imagegradientrectangle)|[2](https://github.com/andrewgjohnson/imagegradientrectangle/issues)
 [andrewgjohnson/**imagettftextblur**](https://github.com/andrewgjohnson/imagettftextblur)|[0](https://github.com/andrewgjohnson/imagettftextblur/issues)
 [andrewgjohnson/**imagettftextgradient**](https://github.com/andrewgjohnson/imagettftextgradient)|[0](https://github.com/andrewgjohnson/imagettftextgradient/issues)
-[andrewgjohnson/**linebreaks4imagettftext**](https://github.com/andrewgjohnson/linebreaks4imagettftext)|[1](https://github.com/andrewgjohnson/linebreaks4imagettftext/issues)
-**Total issues across all projects**|**4**
+[andrewgjohnson/**linebreaks4imagettftext**](https://github.com/andrewgjohnson/linebreaks4imagettftext)|[0](https://github.com/andrewgjohnson/linebreaks4imagettftext/issues)
+**Total issues across all projects**|**3**
