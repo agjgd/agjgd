@@ -4,6 +4,11 @@ All notable changes to the [agjgd project](https://github.com/agjgd/agjgd) will 
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [v1.0.4](https://github.com/agjgd/agjgd/releases/tag/v1.0.4) (May 11, 2026)
+ * Added .gitattributes
+ * Updated Twitter to 𝕏.com
+ * Tweaked layout to match the other agjgd project documentation websites
+
 ## [v1.0.3](https://github.com/agjgd/agjgd/releases/tag/v1.0.3) (June 1, 2024)
  * Added `/statistics/` page to [agjgd.org](https://agjgd.org/)
  * Updated documentation site layout
