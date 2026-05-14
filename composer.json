@@ -1,7 +1,7 @@
 {
     "name": "agjgd/agjgd",
     "type": "library",
-    "description": "agjgd is a collection of projects started by Andrew G. Johnson for PHP’s GD library",
+    "description": "agjgd is a collection of projects started by Andrew G. Johnson for PHPâ€™s GD library",
     "keywords": [
         "gd",
         "graphics",
