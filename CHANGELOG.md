@@ -4,6 +4,16 @@ All notable changes to the [agjgd project](https://github.com/agjgd/agjgd) will 
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [v1.0.5](https://github.com/agjgd/agjgd/releases/tag/v1.0.5) (May 13, 2026)
+ * Fixed corrupted apostrophe character in `composer.json` description
+ * Fixed truncated description in `_config.yml` (added missing "library")
+ * Fixed Patreon username from `agjgd` to `agjopensource` in `FUNDING.yml`
+ * Fixed incorrect `@link` URL in `layout.html` docblock
+ * Updated PHP documentation links from HTTP to HTTPS in `README.md`
+ * Fixed grammatical errors and typos across various files
+ * Removed defunct Google+ and Gitter references from `CODE_OF_CONDUCT.md`
+ * Updated `.gitignore` to exclude `.phpunit.result.cache` and `.claude`
+
 ## [v1.0.4](https://github.com/agjgd/agjgd/releases/tag/v1.0.4) (May 11, 2026)
  * Added .gitattributes
  * Updated Twitter to 𝕏.com
@@ -16,7 +26,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ## [v1.0.2](https://github.com/agjgd/agjgd/releases/tag/v1.0.2) (November 22, 2022)
  * Added `/menu/` page to [agjgd.org](https://agjgd.org/)
- * Signed up for [Patreon](https://patreon.com/agjgd) and added links to README.md
+ * Signed up for [Patreon](https://patreon.com/agjopensource) and added links to README.md
  * Added `.github` folder to unclutter the root directory
  * Added `CODEOWNERS` file
  * Added `FUNDING.yml` file
@@ -33,4 +43,4 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
  * Updated avatar
 
 ## [v1.0.0](https://github.com/agjgd/agjgd/releases/tag/v1.0.0) (January 11, 2019)
- * Intial release of agjgd
+ * Initial release of agjgd
