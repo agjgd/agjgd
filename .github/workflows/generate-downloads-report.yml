@@ -59,7 +59,7 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add DOWNLOADS.md
-          if [ -n "$(git status --porcelain)" ]; then
+          if ! git diff --cached --quiet; then
             git commit -m "Update downloads report"
             git push
           else
