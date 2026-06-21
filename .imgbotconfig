@@ -1,8 +1,8 @@
 {
     "ignoredFiles": [
-        "documentation/agjgd.org/images/contributors-badge.png",
-        "documentation/agjgd.org/images/downloads-badge.png",
-        "documentation/agjgd.org/images/stargazers-badge.png",
-        "documentation/agjgd.org/images/issues-badge.png"
+        "documentation/images/contributors-badge.png",
+        "documentation/images/downloads-badge.png",
+        "documentation/images/stargazers-badge.png",
+        "documentation/images/issues-badge.png"
     ]
 }
