@@ -1,24 +1,51 @@
-title:        agjgd
-name:         agjgd
-description:  agjgd is a collection of projects started by Andrew G. Johnson for PHP’s GD library
-author:       Andrew G. Johnson
-author_email: andrew@andrewgjohnson.com
-email:        agjgd.org@gmail.com
-url:          "https://agjgd.org"
-includes_dir: .
-layouts_dir:  documentation/agjgd.org/layouts
-exclude:      [
-               .github,
-               .github/*.md,
-               .github/*.yml,
-               .github/CODEOWNERS,
-               CHANGELOG.md,
-               CNAME,
-               composer.json,
-               documentation/README.md,
-               examples/*.php,
-               examples/*.ttf,
-               LICENSE,
-               README.md,
-               source
-              ]
+plugins:
+  - jekyll-redirect-from
+  - jekyll-remote-theme
+
+remote_theme:         andrewgjohnson/open-source-documentation-jekyll-theme
+title:                agjgd
+name:                 agjgd
+description:          agjgd is a collection of projects started by Andrew G. Johnson for PHP’s GD library
+author:               Andrew G. Johnson
+author_email:         andrew@andrewgjohnson.com
+email:                agjgd.org@gmail.com
+url:                  https://agjgd.org
+includes_dir:         .
+favicon:              https://github.githubassets.com/favicon.ico
+footer_text:          agjgd.org
+footer_url:           https://agjgd.org
+copyright_year_start: 2019
+syntax_highlighting:  true
+cover_image:          mountains
+custom_head:          <script>if (location.pathname == "/documentation" || location.pathname.indexOf("/documentation/") === 0) window.location.href = "/";</script>
+social_links:
+  - platform:         twitter
+    url:              https://twitter.com/agjgdphp
+    label:            agjgd on Twitter
+  - platform:         github
+    url:              https://github.com/agjgd/agjgd
+    label:            agjgd on GitHub
+  - platform:         packagist
+    url:              https://packagist.org/packages/agjgd/agjgd
+    label:            agjgd on Packagist
+  - platform:         patreon
+    url:              https://www.patreon.com/agjopensource
+    label:            agjgd on Patreon
+  - platform:         x
+    url:              https://x.com/agjgdphp
+    label:            agjgd on 𝕏
+exclude:              [
+                       .github,
+                       .github/*.md,
+                       .github/*.yml,
+                       .github/CODEOWNERS,
+                       CHANGELOG.md,
+                       CNAME,
+                       composer.json,
+                       documentation/README.md,
+                       examples/*.php,
+                       examples/*.ttf,
+                       LICENSE,
+                       README.md,
+                       source
+                      ]

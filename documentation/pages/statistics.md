@@ -1,8 +1,9 @@
 ---
-layout:    layout
-title:     agjgd&#58; Statistics
+layout:    default
+title:     Statistics • agjgd
 permalink: /statistics/
-nav:       3
+nav_order: 3
+nav_text:  Statistics
 ---
 
 # Statistics
