@@ -1,8 +1,9 @@
 ---
-layout:    layout
-title:     agjgd&#58; Projects
+layout:    default
+title:     Projects • agjgd
 permalink: /projects/
-nav:       2
+nav_order: 2
+nav_text:  Projects
 ---
 
 # Projects

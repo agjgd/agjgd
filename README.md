@@ -1,13 +1,13 @@
 # agjgd
 
 [![MIT License](https://img.shields.io/badge/license-MIT-0366d6.png?colorB=0366d6&style=flat-square)](https://github.com/agjgd/agjgd/blob/master/LICENSE)
-[![Packagist Downloads](https://agjgd.org/documentation/agjgd.org/images/downloads-badge.png)](https://agjgd.org/statistics/#downloads)
-[![GitHub Stargazers](https://agjgd.org/documentation/agjgd.org/images/stargazers-badge.png)](https://agjgd.org/statistics/#stargazers)
-[![GitHub Contributors](https://agjgd.org/documentation/agjgd.org/images/contributors-badge.png)](https://agjgd.org/statistics/#contributors)
-[![GitHub Issues](https://agjgd.org/documentation/agjgd.org/images/issues-badge.png)](https://agjgd.org/statistics/#open-issues)
-[![Patreon](https://agjgd.org/documentation/agjgd.org/images/patreon-badge.png)](https://patreon.com/agjopensource)
+[![Packagist Downloads](documentation/images/downloads-badge.png)](https://agjgd.org/statistics/#downloads)
+[![GitHub Stargazers](documentation/images/stargazers-badge.png)](https://agjgd.org/statistics/#stargazers)
+[![GitHub Contributors](documentation/images/contributors-badge.png)](https://agjgd.org/statistics/#contributors)
+[![GitHub Issues](documentation/images/issues-badge.png)](https://agjgd.org/statistics/#open-issues)
+[![Patreon](documentation/images/patreon-badge.png)](https://patreon.com/agjopensource)
 
-<p align="center"><a href="https://agjgd.org/" title=""><img src="https://agjgd.org/documentation/agjgd.org/images/avatar.png" alt="" title="" width="400" id="avatar" /></a></p>
+<p align="center"><a href="https://agjgd.org/" title=""><img src="documentation/images/avatar.png" alt="" title="" width="400" id="avatar" /></a></p>
 
 ## Description
 
@@ -57,7 +57,7 @@ Full list of contributors across all projects:
  * [Imgbot (@ImgBotApp)](https://github.com/ImgBotApp)
  * [GitHub Actions (github-actions[bot])](https://github.com/features/actions)
 
-Our [security policies and procedures](https://github.com/agjgd/agjgd/blob/master/.github/SECURITY.md) come via the [atomist/samples](https://github.com/atomist/samples/blob/master/SECURITY.md) project. Our [pull request template](https://github.com/agjgd/agjgd/blob/master/.github/PULL_REQUEST_TEMPLATE.md) comes via the [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) project. The [mountains photo](https://unsplash.com/photos/qJvpykJ5SKs) comes via [Gabriel Garcia Marengo](https://unsplash.com/@gabrielgm).
+Our [security policies and procedures](https://github.com/agjgd/agjgd/blob/master/.github/SECURITY.md) come via the [atomist/samples](https://github.com/atomist/samples/blob/master/SECURITY.md) project. Our [pull request template](https://github.com/agjgd/agjgd/blob/master/.github/PULL_REQUEST_TEMPLATE.md) comes via the [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) project. The [Jekyll theme](https://github.com/andrewgjohnson/open-source-documentation-jekyll-theme) was released by [Andrew G. Johnson](https://github.com/andrewgjohnson).
 
 ## Changelog
 
